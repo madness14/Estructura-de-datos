@@ -142,5 +142,4 @@ if __name__ == '__main__':
     indice = int(input())
     nodos = int(input())
     arbol = leer_arbol(nodos)   
-    arbol.borrar_elemento(indice)
     print(arbol)
